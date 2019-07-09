@@ -1,1 +1,1 @@
-worker: python 오이.py
+worker:python 오이.py
